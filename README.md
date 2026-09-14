@@ -52,3 +52,8 @@ A Portuguese-language YouTube channel explaining computing concepts to curious n
 A blog I kept in the early 2010s about AI for games. Started it to work through Ian Millington's *Artificial Intelligence for Games*, which I'd picked up from the uni library — explaining a topic is the test of whether you actually got it. Only covered things that weren't already well-explained on the web. Long gone; one post stuck around on Medium because people kept linking to it.
 
 [A* with Navigation Meshes](https://medium.com/@mscansian/a-with-navigation-meshes-246fd9e72424)
+
+## Odds and ends
+The more niche ones — a factory planner for a video game, an Alexa skill for aviation weather, game libraries from the 2000s — are listed separately.
+
+[Odds and ends](https://github.com/mscansian/mscansian/blob/main/odds-and-ends.md)
