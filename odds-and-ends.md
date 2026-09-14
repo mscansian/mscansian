@@ -22,7 +22,7 @@ whatever I was learning at the time. Newest first.
 - [ahk-sap](https://github.com/mscansian/ahk-sap) — AutoHotkey macros for SAP, from a job at a large company that had me typing the same information into the same screens all day. People there called them die Geisterhände, after the mouse working through screens with nobody at the desk.
 
 ## 2000s
-Blitz3D was what I made games in as a teenager. These four are the parts that outlived the games, published in 2014, years after they were written.
+Blitz3D was what I made games in as a teenager. The pathfinding came later, around 2009, out of working through Ian Millington's *Artificial Intelligence for Games* at university — read a chapter, implement it, find out what the chapter left out. These four are the parts that outlived the games, published in 2014, years after they were written.
 
 - [b3d-astar-pathfinding](https://github.com/mscansian/b3d-astar-pathfinding) — A\* pathfinding. Works on grids, waypoints or navmeshes, takes a custom heuristic and terrain cost, and can spread one path across several iterations instead of blocking a frame.
 - [b3d-binaryheaps](https://github.com/mscansian/b3d-binaryheaps) — binary heaps, written to keep the pathfinder fast enough to be worth using.
