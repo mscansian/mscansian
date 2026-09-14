@@ -18,6 +18,13 @@ Built it because the obvious LLM tools (Claude Code, ChatGPT) are chat-shaped an
 
 [mscansian/qq](https://github.com/mscansian/qq)
 
+## nuzzle
+A desktop app for running Hugging Face models locally — chat, a completion playground, image generation, and an OpenAI-compatible API server for other local apps to point at. Built on `transformers` and `diffusers`. Linux and NVIDIA only.
+
+Built it because getting a model off Hugging Face and actually running it means stitching scripts and environments together every time, and the apps that spare you that are built on `llama.cpp`, so they stop at text.
+
+[mscansian/nuzzle](https://github.com/mscansian/nuzzle)
+
 ## django-sql-debug
 A Django development tool that prints executed ORM queries (with `EXPLAIN ANALYSE`) to the console. Works at any scope: a single query, a single test, or a whole application.
 
